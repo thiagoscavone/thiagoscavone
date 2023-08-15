@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="scavone-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="scavone-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div> 
@@ -14,13 +14,4 @@
 </div>
 
 
-   
-<!--
-**thiagoscavone/thiagoscavone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-
-
--->
