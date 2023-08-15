@@ -9,7 +9,6 @@
 </picture>
 
 
-![snake gif](https://github.com/thiagoscavone/thiagoscavone/blob/output/github-contribution-grid-snake.gif)
 
 <div>
    <a ref="https://github.com/thiagoscavone/">
@@ -29,4 +28,5 @@
 </div>
 
 
+![snake gif](https://github.com/thiagoscavone/thiagoscavone/blob/output/github-contribution-grid-snake.gif)
 
