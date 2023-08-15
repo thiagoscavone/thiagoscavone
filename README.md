@@ -1,4 +1,4 @@
-# Hi there 👋
+#### Hi there 👋
 - I’m currently working on Financial Market with data - a lot of data! 📈💰📉
 - 🌱 I’m currently learning #Python🐍 and Machine Learning
 
