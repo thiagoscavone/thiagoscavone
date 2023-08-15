@@ -2,7 +2,17 @@
 - I’m currently working on Financial Market with data - a lot of data! 📈💰📉
 - I’m currently learning #Python🐍 and Machine Learning
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoscavone)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+<div>
+   <a ref="https://github.com/thiagoscavone/">
+   <img height="100em" scr="https://github-readme-stats.vercel.app/api?username=thiagoscavone&show_icons=true&theme=dracula&include_all_commits=true&count_private=rtue"/>
+   <img height="100em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoscavone&layout=compact&lnags_count=16&theme=dracula"/>  
+</div>
+
+
 <div style="display: inline_block"><br>
    <img align="center" alt="scavone-Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
