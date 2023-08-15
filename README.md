@@ -8,6 +8,9 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
+
+![snake gif](https://github.com/thiagoscavone/thiagoscavone/blob/output/github-contribution-grid-snake.gif)
+
 <div>
    <a ref="https://github.com/thiagoscavone/">
    <img height="100em" scr="https://github-readme-stats.vercel.app/api?username=thiagoscavone&show_icons=true&theme=dracula&include_all_commits=true&count_private=rtue"/>
