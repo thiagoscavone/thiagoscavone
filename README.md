@@ -1,6 +1,7 @@
 #### Hi there 👋
 - I’m currently working on Financial Market with data - a lot of data! 📈💰📉
-- I’m currently learning Python🐍 and Machine Learning
+- My preferred interests: Python🐍 and Machine Learning 
+
 
 ![Thiago Scavone's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoscavone&show_icons=true%29&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoscavone&layout=compact&theme=algolia)](https://github.com/thiagoscavone/github-readme-stats)
@@ -22,5 +23,5 @@
 </div>
 
 
-![snake gif](https://github.com/thiagoscavone/thiagoscavone/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/thiagoscavone/thiagoscavone/blob/output/github-contribution-grid-snake.svg) 
 
